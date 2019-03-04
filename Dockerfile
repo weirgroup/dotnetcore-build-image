@@ -7,7 +7,6 @@ RUN apk add --no-cache \
     krb5-libs \
     libgcc \
     libintl \
-    libssl1.0 \
     libstdc++ \
     tzdata \
     userspace-rcu \
